@@ -1,0 +1,15 @@
+Basic update
+Refactored code
+Fixed a multitude of issues
+Optimized runtime
+Fixed compiler flags
+Removed unused tests
+Refactored odd variable names
+Small update
+Fixed very small issue
+Refactored if-statements
+Resolved race condition
+Remove memory leak
+Updated outdated dependencies
+Removed unused dependencies
+Add unit tests
